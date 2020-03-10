@@ -3,3 +3,5 @@ Aula top de github
 -Contolar versão
 -Alo
 --Init
+--Add
+--Commit
