@@ -5,3 +5,8 @@ Aula top de github
 --Init
 --Add
 --Commit
+--Log
+--Status
+--Push
+--Pull
+--Fetch
